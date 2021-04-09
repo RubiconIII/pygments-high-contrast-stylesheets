@@ -2,6 +2,7 @@
 
 demos = [
   "autumn",
+  "autumn-blue",
   "colorful",
   "fruity",
   "monokai",
